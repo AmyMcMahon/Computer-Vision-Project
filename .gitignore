@@ -1,3 +1,5 @@
 celeba_gan/
 celeba_gan/data.zip
 examples/*
+.DS_Store
+__pycache__/
